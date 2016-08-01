@@ -1,0 +1,25 @@
+project.pj
+.mksignore
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+.launch
+.staleFlag
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+binary/
+.staleFlag/
+stale/
