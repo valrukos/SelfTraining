@@ -6,5 +6,6 @@ public class Main {
         System.err.println("Hello");
         System.err.println("World");
         System.err.println("The fist commit");
+        System.err.println("New branch 1");
     }
 }
